@@ -1,5 +1,4 @@
 # Challenge-Alura-Store
-# 🧠 Alura04 - Challenge Alura Store
 
 Este projeto faz parte do desafio da [Formação Alura + Oracle Next Education], com o objetivo de apoiar o Sr. João na decisão estratégica de qual loja da rede **Alura Store** deve ser vendida para viabilizar um novo empreendimento.
 
